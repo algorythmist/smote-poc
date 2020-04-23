@@ -1,4 +1,4 @@
-# Start Jupiter from a virtualenv
+# Start Jupyter from a virtualenv
 
 python3 -m venv venv
 
